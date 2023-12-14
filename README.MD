@@ -4,7 +4,7 @@
 Passionate about coding and dedicated to thorough testing.
 
 
-# Git Dance Routine 🕺💃
+# Git Dance Routine 🕺💃🔄
 
 ```bash
 # Act 1: Branch Boogie - Switch to a new branch for a change of Git attire
