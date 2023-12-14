@@ -10,6 +10,6 @@ Passionate about coding and dedicated to thorough testing.
 ```bash
 # Switch to a new branch for a change of Git attire
 git checkout -b new-branch
-
+###Act 2: Staging Shimmy
 # Get ready for the Git fashion show with runway-ready changes
 git add .
