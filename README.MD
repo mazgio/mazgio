@@ -6,7 +6,7 @@ Passionate about coding and dedicated to thorough testing.
 
 # Git Ballet: A Comedic Choreography
 
-```bash
+
 # Act 1: The Daring Debut - Switch to a new branch, because even Git deserves a costume change
 git checkout -b new-branch
 
