@@ -1,9 +1,12 @@
-# Giorgio Mazzuca [Connect with me on LinkedIn](https://www.linkedin.com/in/giorgio-mazzuca/)
+<p align="center">
+  <b># Giorgio Mazzuca [Connect with me on LinkedIn](https://www.linkedin.com/in/giorgio-mazzuca/)🔄</b>
+</p>
+
 + Full Stack Developer
 
 + Passionate about coding and dedicated to thorough testing
 <p align="center">
-  <b>Git Dance Routine 🕺💃🔄</b>
+  <b>Git Dance Routine 🕺💃</b>
 </p>
                                                          
 | Branch Boogie                        |Staging Shimmy                         | Commit Cha-Cha|Sync Samba   |Push Paso Doble       |Grand Finale|
