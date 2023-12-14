@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <b style="text-transform: capitalize;"><a href="https://www.linkedin.com/in/giorgio-mazzuca/">🌟Giorgio Mazzuca🌟</a></b>
-</p>
+</h1>
 
 <p align="center">
   <b>My New Fancy GitHub Page 🚀</b>
@@ -12,6 +12,8 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 + Full Stack Developer 💻
 
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
+
+<h3 align="left">Languages and Tools:</h3>
 
 <p> 
   <a href="https://skillicons.dev">
