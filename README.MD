@@ -1,28 +1,28 @@
 # Giorgio Mazzuca
 ## Full Stack Developer
 
-### Projects
+## Passionate about coding and dedicated to thorough testing.
 
-#### DropWorks
-- November 2023 to December 2023
-- An app to find remote workspaces
-- 4 person team project
-- Technologies: Ruby on Rails, JavaScript, Stimulus, HTML, CSS, API, Mapbox
-- Focused on backend functionalities including popups and adding a "save" feature
+## Projects
 
-#### RoboRentals
-- November 2023 to November 2023
-- Rent robots for enhanced efficiency in various tasks
-- Technologies: Ruby on Rails, Javascript, Stimulus, Cloudinary
-- Specialized in frontend to create user interfaces, with a focus on designing and implementing photo showcase pages
+### DropWorks
+- Nov '23 to Dec '23
+- Remote workspaces app
+- 4-person team
+- Tech: Ruby on Rails, JS, Stimulus, HTML, CSS, API, Mapbox
+- Backend focus: Popups, "save" feature
 
-#### Gusto
-- July 2022 to August 2022
-- Facilitating the exploration of diverse culinary traditions
-- The app makes the richness of food culture accessible to all, irrespective of individual levels of interest
-- Born from the minds of a group of 4 young web developers
-- Technologies: MERN stack (React, Node.js), Redux for state management
+### RoboRentals
+- Nov '23
+- Rent robots for efficiency
+- Tech: Ruby on Rails, JS, Stimulus, Cloudinary
+- Frontend focus: UI design, photo showcase
 
+### Gusto
+- Jul '22 to Aug '22
+- Diverse culinary exploration app
+- Born from a group of 4 developers
+- Tech: MERN stack (React, Node.js), Redux
 
 ### Skills
 
