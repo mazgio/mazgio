@@ -17,7 +17,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" />
   </a>
 </p>
 
@@ -32,6 +32,14 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
+
+<p> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql,postgres&perline=3" />
+  </a>
+</p>
+
+postgres&perline=3
 
 <p> 
   <a href="https://skillicons.dev">
