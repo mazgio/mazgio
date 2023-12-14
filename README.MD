@@ -3,27 +3,24 @@
 
 Passionate about coding and dedicated to thorough testing.
 
-## Projects
-- **DropWorks** (Nov '23 to Dec '23)
-  - Remote workspaces app
-  - 4-person team
-  - Tech: Ruby on Rails, JS, Stimulus, HTML, CSS, API, Mapbox
-  - Backend focus: Popups, "save" feature
 
-- **RoboRentals** (Nov '23)
-  - Rent robots for efficiency
-  - Tech: Ruby on Rails, JS, Stimulus, Cloudinary
-  - Frontend focus: UI design, photo showcase
+# Git Ballet: A Comedic Choreography
 
-- **Gusto** (Jul '22 to Aug '22)
-  - Diverse culinary exploration app
-  - Born from a group of 4 developers
-  - Tech: MERN stack (React, Node.js), Redux
+```bash
+# Act 1: The Daring Debut - Switch to a new branch, because even Git deserves a costume change
+git checkout -b new-branch
 
-## Skills
-- **Web Development:** HTML, CSS, JS(Node.js), Ruby on Rails, SQL
-- **Frameworks/Libraries:** React, Vue.js, Angular, TypeScript
-- **Design:** Figma
-- **Version Control:** Git, Github
-- **Deployment and Hosting:** Heroku
-- **Soft Skills:** Communication, Collaboration, Problem-Solving, Creativity, Critical Thinking, Attention to Detail
+# Act 2: The Staging Spectacle - Prepare for the Git fashion show, where all changes are runway-ready
+git add .
+
+# Act 3: The Commit Carnival - Commit your changes with a twirl, because version control can be fabulous
+git commit -m "Your commit message here"
+
+# Act 4: The Sync Symphony - Sync up with the latest moves from master, because we're all in this dance together
+git pull origin master
+
+# Act 5: The Push Parade - Strut your stuff on the Git catwalk, showcasing your changes to the world
+git push origin new-branch
+
+# Act 6: The Grand Exit - Bow out with flair, switching back to the master branch for the final bow
+git checkout master
