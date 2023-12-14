@@ -14,7 +14,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
 
 <h3 align="left">Languages and Tools:</h3>
-
+| blue                   |
 | ---------------------- |
 | 🌐 Web Development      |
 <p> 
