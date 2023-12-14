@@ -14,25 +14,15 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
 
 <h3 align="left">Languages and Tools:</h3>
-| Description            |
-| ---------------------- |
 
-| 📱 Mobile App           |
-
-| 🌐 Backend              |
-| 🖥️ Desktop App         |
-| 📊 Data Science         |
-| 🎨 UI/UX Design         |
-| 🧪 Testing              |
-| 📚 Documentation        |
-
-<p> | 🌐 Web Development      |
+| 🌐 Web Development      |
+<p> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" />
   </a>
 </p>
-
-<p> | 🌐 Frontend             |
+| 🌐 Frontend             |
+<p> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" />
   </a>
