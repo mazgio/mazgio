@@ -10,4 +10,4 @@ Passionate about coding and dedicated to thorough testing.
 | --------                            | --------                               | --------       |--------   |--------              |--------|
 |git checkout -b new-branch| git add .|git commit -m "Your commit message here"|git pull origin master|git push origin new-branch|git checkout master|
 |                               |
-| -------- | -------- |- ------ |
+| 🎵 | 🎶 | 🚀 | 🌪️ | ✨  | 🌈  |
