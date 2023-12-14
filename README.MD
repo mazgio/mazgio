@@ -23,7 +23,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript,sql" />
+    <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sql" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
   </a>
 </p>
 
