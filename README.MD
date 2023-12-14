@@ -1,5 +1,5 @@
 <p align="center">
-  <b> Giorgio Mazzuca (https://www.linkedin.com/in/giorgio-mazzuca/)🔄</b>
+  <b style="text-transform: uppercase;"> Giorgio Mazzuca (https://www.linkedin.com/in/giorgio-mazzuca/)🔄</b>
 </p>
 
 + Full Stack Developer
