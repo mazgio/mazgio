@@ -2,7 +2,9 @@
 ## Full Stack Developer
 
 ### Passionate about coding and dedicated to thorough testing.
-                                                        # Git Dance Routine 🕺💃🔄
+<p align="center">
+  <b>Git Dance Routine 🕺💃🔄</b>
+</p>
                                                          
 | Branch Boogie                        |Staging Shimmy                         | Commit Cha-Cha|Sync Samba   |Push Paso Doble       |Grand Finale|
 | --------                            | --------                               | --------       |--------   |--------              |--------|
