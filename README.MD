@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b style="text-transform: capitalize;"><a href="https://www.linkedin.com/in/giorgio-mazzuca/">🌟Giorgio Mazzuca🌟</a></b>
+  <b style="text-transform: capitalize;"><a href="https://www.linkedin.com/in/giorgio-mazzuca/">🌟Giorgio Mazzuca🌟</a></b> 
 </h1> 
  
 <p align="center">
