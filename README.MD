@@ -16,8 +16,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
   <b>Git Dance Routine 🕺💃</b>
 </p>
                                                          
-| Branch Boogie                        |Staging Shimmy                         | Commit Cha-Cha|Sync Samba   |Push Paso Doble       |Grand Finale|
-| --------                            | --------                               | --------       |--------   |--------              |--------|
-|git checkout -b new-branch| git add .|git commit -m "Your commit message here"|git pull origin master|git push origin new-branch|git checkout master|    
-|   🎵   |   🎶   |   🚀   |   🌪️   |   ✨   |   🌈   |
-| :----: | :----: | :----: | :----: | :----: | :----: |
+| Branch Boogie                        | Staging Shimmy                        | Commit Cha-Cha                       | Sync Samba                           | Push Paso Doble                      | Grand Finale                         |
+| :--------:                           | :--------:                            | :--------:                           | :--------:                           | :--------:                           | :--------:                           |
+| `git checkout -b new-branch`         | `git add .`                           | `git commit -m "Your commit message here"` | `git pull origin master`            | `git push origin new-branch`        | `git checkout master`               |
+|   🎵                                  |   🎶                                  |   🚀                                  |   🌪️                                |   ✨                                  |   🌈                                 |
