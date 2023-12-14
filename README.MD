@@ -1,4 +1,4 @@
-# Giorgio Mazzuca
+# Giorgio Mazzuca [Connect with me on LinkedIn](https://www.linkedin.com/in/giorgio-mazzuca/)
 ## Full Stack Developer
 
 ### Passionate about coding and dedicated to thorough testing.
