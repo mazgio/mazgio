@@ -13,19 +13,19 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
 
-<p> WEB DEVELOPMENT ->
+<p> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby,sql" />
   </a>
 </p>
 
-<p> FRAMEWORKS/LIBRARIES ->
+<p> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" />
   </a>
 </p>
 
-<p> VERSION CONTROL ->
+<p> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
