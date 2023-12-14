@@ -23,7 +23,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" />
+    <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript,sql" />
   </a>
 </p>
 
