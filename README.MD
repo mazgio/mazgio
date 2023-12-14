@@ -13,5 +13,3 @@ git checkout -b new-branch
 
 ### Act 2: Staging Shimmy
 ```bash
-# Get ready for the Git fashion show with runway-ready changes
-git add .
