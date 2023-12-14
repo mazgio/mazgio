@@ -35,7 +35,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </p>
 
