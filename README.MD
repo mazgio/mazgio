@@ -12,6 +12,13 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 + Full Stack Developer 💻
 
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <p align="center">
   <b>Git Dance Routine 🕺💃</b>
 </p>
