@@ -60,7 +60,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 | Description         | Emoticon |
 | ------------------- | -------- |
-| 🌐 Web Development   |         |
+|    |  🌐 Web Development       |
 |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
 
 
