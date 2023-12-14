@@ -15,6 +15,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <h3 align="left">Languages and Tools:</h3>
 
+| ---------------------- |
 | 🌐 Web Development      |
 <p> 
   <a href="https://skillicons.dev">
