@@ -13,6 +13,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
 
+---
 
 
 
@@ -25,7 +26,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
 🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" /></a></p>|
  
-
+---
 
 <p align="center">
   <b>Git Dance Routine 🕺💃</b> 
