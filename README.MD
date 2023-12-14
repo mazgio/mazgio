@@ -58,33 +58,27 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 </p>
 
 
-| Description         | Emoticon |
+| Description         |Languages and Tools |
 | ------------------- | -------- |
 |    |         |
 🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
 
 
-| 🌐 Frontend          | 
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" /></a></p>
+
+| 🌐 Frontend          |   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" /></a></p>
 |
 | 🌐 Backend           | 
   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>
 |
-| 🖥️ Desktop App      | 
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>
+ | 📊  Version Control   |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>
 |
-| 📊 Data Science      | 
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>
-|
-| 🎨 UI/UX Design      | 
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>
+
+  | 🎨 UI/UX Design      | <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>
 |
 | 🧪 Testing           | 
   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>
 |
-| 📚 Documentation     | 
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>
-|
+
 
 
 
