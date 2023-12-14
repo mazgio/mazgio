@@ -28,7 +28,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 
 <p align="center">
-  <b>Git Dance Routine 🕺💃</b>
+  <b>Git Dance Routine 🕺💃</b> 
 </p>
                                                          
 | Branch Boogie                        | Staging Shimmy                        | Commit Cha-Cha                       | Sync Samba                           | Push Paso Doble                      | Grand Finale                         |
