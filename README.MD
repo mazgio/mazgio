@@ -13,5 +13,3 @@ git checkout -b new-branch
 
 # Get ready for the Git fashion show with runway-ready changes
 git add .
-# Get ready for the Git fashion show with runway-ready changes
-git add .
