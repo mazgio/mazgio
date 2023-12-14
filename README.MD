@@ -35,11 +35,9 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql" />
+    <img src="https://skillicons.dev/icons?i=sql,postgres" />
   </a>
 </p>
-
-postgres&perline=3
 
 <p> 
   <a href="https://skillicons.dev">
