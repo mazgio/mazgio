@@ -15,13 +15,19 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 <p> WEB DEVELOPMENT ->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby,sql" />
   </a>
 </p>
 
 <p> FRAMEWORKS/LIBRARIES ->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" />
+  </a>
+</p>
+
+<p> VERSION CONTROL ->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
