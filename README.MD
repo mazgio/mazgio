@@ -1,7 +1,7 @@
 # Giorgio Mazzuca [Connect with me on LinkedIn](https://www.linkedin.com/in/giorgio-mazzuca/)
-## Full Stack Developer
++ Full Stack Developer
 
-### Passionate about coding and dedicated to thorough testing.
++ Passionate about coding and dedicated to thorough testing
 <p align="center">
   <b>Git Dance Routine 🕺💃🔄</b>
 </p>
