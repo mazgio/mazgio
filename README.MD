@@ -9,9 +9,9 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
   <b style="text-transform: capitalize;"><a href="https://www.linkedin.com/in/giorgio-mazzuca/">🌟Giorgio Mazzuca🌟</a></b>
 </p>
 
-+ Full Stack Developer
++ Full Stack Developer💻
 
-+ Passionate about coding and dedicated to thorough testing
++ Passionate about coding and dedicated to thorough testing🧑‍💻
 <p align="center">
   <b>Git Dance Routine 🕺💃</b>
 </p>
