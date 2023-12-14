@@ -23,22 +23,6 @@
 - Born from the minds of a group of 4 young web developers
 - Technologies: MERN stack (React, Node.js), Redux for state management
 
-### Professional Experience
-
-#### Gesellschaft zur Verwertung von Leistungsschutzrechten mbH (GVL)
-- Junior Fullstack Developer
-- February 2023 to May 2023 | Berlin, Germany
-- Proficient in UI/UX design to create innovative features
-- Collaborated in teams using Kanban boards and Jira
-- Applied TypeScript, established CI/CD pipelines, implemented Test Driven Development (TDD)
-- Acquired knowledge of complex distributed systems such as ElasticSearch
-- Fundamental understanding of Kubernetes and Docker
-
-#### J4S GmbH
-- Internship Fullstack Developer
-- September 2022 to November 2022
-- Developed a Single Page App with Vue.js
-- Learned how to refactor the code
 
 ### Skills
 
@@ -48,25 +32,3 @@
 - **Version Control:** Git, Github
 - **Deployment and Hosting:** Heroku
 - **Soft Skills:** Communication, Collaboration, Problem-Solving, Creativity, Critical Thinking, Attention to Detail
-
-### Languages
-- Italian (Native)
-- English (Fluent)
-- German (Intermediate)
-
-### Education
-
-#### Full Stack Web Development Certification
-- Le Wagon
-- October 2023 to December 2023 | Berlin, Germany
-- Technologies learned: HTML, CSS, Bootstrap, JavaScript ES2015, SQL, Git, GitHub, Heroku, Ruby on Rails
-
-#### Industrial Engineer (B.A.)
-- Como eCampus University
-- January 2010 to October 2013 | Como, Italy
-- Thesis on the analysis of several technology companies with renewable energies
-
-#### Web and Software Development
-- DCI Digital Career Institute GmbH
-- September 2021 to September 2022 | Berlin, Germany
-- Learned MERN stack technologies and acquired skills in using the FETCH API, applying different styles through Material UI, SASS, styled-components, in addition to CSS3
