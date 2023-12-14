@@ -13,7 +13,6 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
 
-<h3 align="left">Languages and Tools:</h3>
 | Description         |
 | ------------------- |
 | 🌐 Web Development   |
@@ -25,6 +24,9 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 | 🎨 UI/UX Design      |
 | 🧪 Testing           |
 | 📚 Documentation     |
+
+<h3 align="left">Languages and Tools:</h3>
+
 <p> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" />
