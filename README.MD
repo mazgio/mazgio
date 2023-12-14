@@ -13,76 +13,17 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 + Passionate about coding and dedicated to thorough testing 🧑‍💻
 
-| Description         |
-| ------------------- |
-| 🌐 Web Development   |
-| 📱 Mobile App        |
-| 🌐 Frontend          |
-| 🌐 Backend           |
-| 🖥️ Desktop App      |
-| 📊 Data Science      |
-| 🎨 UI/UX Design      |
-| 🧪 Testing           |
-| 📚 Documentation     |
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" />
-  </a>
-</p>
-
-<p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" />
-  </a>
-</p>
-
-<p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-</p>
-
-<p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-  </a>
-</p>
-
-<p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-</p>
 
 
 | Description         |Languages and Tools |
 | ------------------- | -------- |
 🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-🌐 Frontend  |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-
-
-|         |   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" /></a></p>|
-||
-
-|||
- | 📊  Version Control   |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>|
-|||
-
-  | 🎨 UI/UX Design      | <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
-
- | ||
-| 🧪 Testing           |   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
-|
-
-
-
-
+📱 Frameworks/Libraries  |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,rails,vue,typescript" /></a></p>|
+📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>|
+🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
+📚 Documentation |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
+🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jasmine" /></a></p>|
 
 
 
