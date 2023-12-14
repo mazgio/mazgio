@@ -16,9 +16,9 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 <h3 align="left">Languages and Tools:</h3>
 | Description            |
 | ---------------------- |
-| 🌐 Web Development      |
+
 | 📱 Mobile App           |
-| 🌐 Frontend             |
+
 | 🌐 Backend              |
 | 🖥️ Desktop App         |
 | 📊 Data Science         |
@@ -26,13 +26,13 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 | 🧪 Testing              |
 | 📚 Documentation        |
 
-<p> 
+<p> | 🌐 Web Development      |
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" />
   </a>
 </p>
 
-<p> 
+<p> | 🌐 Frontend             |
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" />
   </a>
