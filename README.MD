@@ -1,4 +1,6 @@
-# My New Fancy GitHub Page 🚀
+<p align="center">
+  <b>**My New Fancy GitHub Page 🚀**</b>
+</p>
 
 Welcome to my GitHub repository! Feel free to explore the projects and code I've been working on. If you have any questions or suggestions, don't hesitate to reach out.
 
