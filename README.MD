@@ -20,3 +20,9 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 | :--------:                           | :--------:                            | :--------:                           | :--------:                           | :--------:                           | :--------:                           |
 | `git checkout -b new-branch`         | `git add .`                           | `git commit -m "Your commit message here"` | `git pull origin master`            | `git push origin new-branch`        | `git checkout master`               |
 |   🎵                                  |   🎶                                  |   🚀                                  |   🌪️                                |   ✨                                  |   🌈                                 |
+
+
+# This cell should have its output hidden!
+data = np.random.randn(2, 100)
+fig, ax = plt.subplots()
+ax.scatter(*data, c=data[1], s=100*np.abs(data[0]));
