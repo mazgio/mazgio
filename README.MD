@@ -22,8 +22,8 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 📱 Frameworks/Libraries  |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,rails,vue,typescript" /></a></p>|
 📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>|
 🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
-📚 Documentation |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
-🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jasmine" /></a></p>|
+📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
+🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jasmine" /></a>Jasmine and karma</p>|
 
 
 
