@@ -62,7 +62,10 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 | ------------------- | -------- |
 |    |         |
 🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-|||
+🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
+🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
+🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
+🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
 
 
 | 🌐 Frontend          |   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,vue,typescript" /></a></p>|
