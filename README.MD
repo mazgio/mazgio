@@ -1,7 +1,7 @@
 # Giorgio Mazzuca
 ## Full Stack Developer
 
-## Passionate about coding and dedicated to thorough testing.
+Passionate about coding and dedicated to thorough testing.
 
 ## Projects
 
