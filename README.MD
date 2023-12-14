@@ -6,10 +6,7 @@ Passionate about coding and dedicated to thorough testing.
 
 # Git Dance Routine 💃🔄
 
-### Act 1: Branch Boogie
-```bash
-# Switch to a new branch for a change of Git attire
-git checkout -b new-branch
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Content 1| Content 2|
 
-### Act 2: Staging Shimmy
-```bash
