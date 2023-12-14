@@ -4,7 +4,7 @@
 ### Passionate about coding and dedicated to thorough testing.
 
 
-# Git Dance Routine 🕺💃🔄
+                                                 |# Git Dance Routine 🕺💃🔄 |
 
 | Branch Boogie                        |Staging Shimmy                         | Commit Cha-Cha|Sync Samba   |Push Paso Doble       |Grand Finale|
 | --------                            | --------                               | --------       |--------   |--------              |--------|
