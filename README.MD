@@ -1,5 +1,5 @@
 <p align="center">
-  <b> Giorgio Mazzuca [Connect with me on LinkedIn](https://www.linkedin.com/in/giorgio-mazzuca/)🔄</b>
+  <b> Giorgio Mazzuca (https://www.linkedin.com/in/giorgio-mazzuca/)🔄</b>
 </p>
 
 + Full Stack Developer
