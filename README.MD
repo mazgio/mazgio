@@ -31,6 +31,12 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
   </a>
 </p>
 
+<p> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
+
 <p align="center">
   <b>Git Dance Routine 🕺💃</b>
 </p>
