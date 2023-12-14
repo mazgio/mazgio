@@ -1,3 +1,8 @@
+# My New Fancy GitHub Page 🚀
+
+Welcome to my GitHub repository! Feel free to explore the projects and code I've been working on. If you have any questions or suggestions, don't hesitate to reach out.
+
+
 <p align="center">
   <b style="text-transform: capitalize;"><a href="https://www.linkedin.com/in/giorgio-mazzuca/">Giorgio Mazzuca</a></b>
 </p>
