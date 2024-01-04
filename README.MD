@@ -20,14 +20,13 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 
 | Description         |Languages and Tools |
 | ----------------------- | -------- |
-🌐   Web Development   |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" width="80" height="80" style="max-width: 100px; height: auto;" /></a></p>|
-| 📱 Frameworks/Libraries | <div style="display: flex; flex-direction: column; align-items: center; text-align: center;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,rails,vue,typescript" width="80" height="80" style="max-width: 100px; height: auto;" /></a></div> |
-📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" width="80" height="80" style="max-width: 100px; height: auto;" /></a></p>|
-🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="80" height="80" style="max-width: 100px; height: auto;" /></a></p>|
-📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" width="80" height="80" style="max-width: 100px; height: auto;" /></a></p>|
-🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" width="80" height="80" style="max-width: 100px; height: auto;" /></a></p>|
+🌐   Web Development   |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
+| 📱 Frameworks/Libraries | [![Frameworks/Libraries](https://skillicons.dev/icons?i=angular,react,rails,vue,typescript)](https://skillicons.dev) |
+📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>|
+🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
+📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
+🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" /></a></p>|
  
-
 ---
 
 <p align="center">
