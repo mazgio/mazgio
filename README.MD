@@ -21,7 +21,7 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 | Description         |Languages and Tools |
 | ------------------- | -------- |
 🌐 Web Development|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-| <div style="white-space: nowrap;">📱 Frameworks/Libraries</div> |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,rails,vue,typescript" width="100%" style="max-width: 200px; height: auto;" /></a></p>|
+| <div style="white-space: nowrap;">📱 Frameworks/Libraries ....</div> |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,rails,vue,typescript" width="100%" style="max-width: 200px; height: auto;" /></a></p>|
 📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>|
 🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
 📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
