@@ -21,38 +21,12 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 | Description         |Languages and Tools |
 | ----------------------- | -------- |
 🌐   Web Development   |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" /></a></p>|
-| 📱 Frameworks/Libraries | [![Frameworks/Libraries](https://skillicons.dev/icons?i=angular,react,rails,vue,typescript)](https://skillicons.dev) |
+| 📱 Frameworks/Libraries | <a href="https://skillicons.dev" style="display: flex; flex-direction: column; align-items: center;"><img src="https://skillicons.dev/icons?i=angular,react,rails,vue,typescript" width="100%" style="max-width: 200px; height: auto;" />Frameworks/Libraries</a> |
 📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>|
 🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
 📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
 🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" /></a></p>|
  
-<style>
-  @media (max-width: 606px) {
-    .table-container {
-      overflow-x: auto;
-    }
-
-    table {
-      width: 100%;
-    }
-
-    th, td {
-      padding: 8px;
-    }
-
-    .frameworks-libraries, .web-development, .version-control, .ui-ux-design, .database, .testing {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .frameworks-libraries img, .web-development img, .version-control img, .ui-ux-design img, .database img, .testing img {
-      max-width: 100%;
-      height: auto;
-    }
-  }
-</style>
 
 ---
 
