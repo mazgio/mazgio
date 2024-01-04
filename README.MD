@@ -27,6 +27,33 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
 🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" /></a></p>|
  
+<style>
+  @media (max-width: 606px) {
+    .table-container {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+    }
+
+    th, td {
+      padding: 8px;
+    }
+
+    .frameworks-libraries, .web-development, .version-control, .ui-ux-design, .database, .testing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .frameworks-libraries img, .web-development img, .version-control img, .ui-ux-design img, .database img, .testing img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+</style>
+
 ---
 
 <p align="center">
