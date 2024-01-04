@@ -22,10 +22,10 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 | ----------------------- | -------- |
 🌐   Web Development   |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" width="196" /></a></p>|
 | 📱 Frameworks/Libraries | <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,rails,vue,typescript" width="196" /></a></p> |
-📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" /></a></p>|
-🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a></p>|
-📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" /></a></p>|
-🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" /></a></p>|
+📊  Version Control|  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github" width="74" /></a></p>|
+🎨 UI/UX Design |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="35" /></a></p>|
+📚 Database |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite" width="74" /></a></p>|
+🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" width="35" /></a></p>|
  
 ---
 
