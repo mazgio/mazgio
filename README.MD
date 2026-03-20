@@ -28,10 +28,6 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
 🧪 Testing      |  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" width="35" /></a></p>|
  
 ---
-
-<p align="center">
-  <b>Git Dance Routine 🕺💃</b> 
-</p>
                                                          
 # Git Dance Routine 🕺💃
 
