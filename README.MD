@@ -33,10 +33,15 @@ Welcome to my GitHub repository! Feel free to explore the projects and code I've
   <b>Git Dance Routine 🕺💃</b> 
 </p>
                                                          
-| Branch Boogie | Staging Shimmy | Commit Cha-Cha | Sync Samba | Push Paso Doble | Grand Finale | Stash Salsa | Pop Party |
+# Git Dance Routine 🕺💃
 
-| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| `git switch -c new-branch` | `git add .` | `git commit -m "Your commit message here"` | `git pull --rebase` | `gh pr create` | `git switch test` | `git stash` | `git stash pop` |
+| Branch Boogie | Staging Shimmy | Commit Cha-Cha | Sync Samba | Push Paso Doble | Grand Finale |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| `git switch -c new-branch` | `git add .` | `git commit -m "message"` | `git pull --rebase` | `gh pr create` | `git switch test` |
+| 🎵 | 🎶 | 🚀 | 🌪️ | ✨ | 🌈 |
 
-| 🎵 | 🎶 | 🚀 | 🌪️ | ✨ | 🌈 | 🫙 | 🎉 |
+| Stash Salsa | Pop Party |
+| :--------: | :--------: |
+| `git stash` | `git stash pop` |
+| 🫙 | 🎉 |
 
